@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "ABCBBC-lab/abcbbc.github.io",
+    "data-repo": "ABCBBC-lab/abcbbc-lab.github.io",
     "data-repo-id": "",
     "data-category": "",
     "data-category-id": "",
