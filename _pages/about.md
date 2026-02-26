@@ -25,4 +25,4 @@ announcements:
 
 ---
 
-Founded by Dr. Andrea Ravignani (AR) in 2023, the ABCBBC Lab investigates why humans and some other species are so skilled at vocal learning and rhythm, and how these capacities underlying speech and music may have evolved. We believe in interdisciplinary, multicultural, and rigorous science, and encourage all group members to embrace a collaborative rather than competitive approach to research.
+Founded by Prof. Andrea Ravignani in 2023, the ABCBBC Lab investigates why humans and some other species are so skilled at vocal learning and rhythm, and how these capacities underlying speech and music may have evolved. We believe in interdisciplinary, multicultural, and rigorous science, and encourage all group members to embrace a collaborative rather than competitive approach to research.
