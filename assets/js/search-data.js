@@ -53,7 +53,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%62%63%62%62%63-%6C%61%62@%75%6E%69%72%6F%6D%61%31.%69%74", "_blank");
+          window.open("mailto:%61%62%63%62%62%63-%6C%61%62.%73%61%70%69%65%6E%7A%61@%75%6E%69%72%6F%6D%61%31.%69%74", "_blank");
         },
       },{
         id: 'social-bluesky',
