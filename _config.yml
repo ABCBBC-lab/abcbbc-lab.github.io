@@ -2,12 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Animal Behavior, Computational Bioacoustics, Brains and Cognition # the website title (if blank, full name will be used instead)
+title: >
+  Animal Behavior, Computational Bioacoustics, Brains and Cognition
 first_name: ABCBBC lab Rome
 middle_name:
 last_name:
 contact_note: >
-  For any inquiries, please contact us at <a href="mailto:abcbbc-lab.sapienza@uniroma1.it">
+  For any inquiries, please contact us! <a href="mailto:abcbbc-lab.sapienza@uniroma1.it">
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for the ABCBBC lab at Sapienza University of Rome, led by Prof. Andrea Ravignani. We are interested in animal behavior, computational bioacoustics, brains and cognition.
 footer_text:
@@ -28,10 +29,10 @@ back_to_top: true # set to false to disable the back to top button
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_trophies:
-  enabled: true
-  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+# repo_trophies:
+#   enabled: true
+#   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
+#   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
 # External service URLs for repository page
 # To use a different instance or service for displaying GitHub stats and trophies,
@@ -88,18 +89,18 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: abcbbc-blog # blog_name will be displayed in your blog page
-blog_description: Blog for the ABCBBC lab at Sapienza University of Rome, led by Prof. Andrea Ravignani.
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+blog_name: # blog_name will be displayed in your blog page
+# blog_description: Blog for the ABCBBC lab at Sapienza University of Rome, led by Prof. Andrea Ravignani.
+permalink:
+# lsi: false # produce an index for related posts
 
-# Pagination
-pagination:
-  enabled: true
+# # Pagination
+# pagination:
+#   enabled: true
 
-related_blog_posts:
-  enabled: true
-  max_related: 5
+# related_blog_posts:
+#   enabled: true
+#   max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -151,16 +152,14 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
     output: true
-  projects:
-    output: true
-  teachings:
-    output: true
+  # projects:
+  #   output: true
+  # teachings:
+  #   output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -265,8 +264,6 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
@@ -344,7 +341,7 @@ max_author_limit: 3 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
+enable_publication_thumbnails: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
@@ -403,7 +400,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
