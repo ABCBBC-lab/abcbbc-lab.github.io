@@ -2,7 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: abcbbc-lab@uniroma1.it # your email address
+email: abcbbc-lab.sapienza@uniroma1.it # your email address
 bluesky_url: https://bsky.app/profile/andrearavignani.bsky.social
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
