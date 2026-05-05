@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Current members of the ABCBBC lab.
 nav: true
 nav_order: 7
 
@@ -11,18 +11,20 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_jelle.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>jelle.vanderwerff (at) uniroma1.it</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_andrea.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      test @ uniroma1.it
+  - align: right
+    image: prof_pic.jpg
+    content: about_teresa.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      test @ uniroma1.it
 ---
