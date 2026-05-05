@@ -1,5 +1,6 @@
 
 Professor Andrea Ravignani is a prominent researcher specializing in the evolution of communication and cognition. With a background in biology and comparative psychology, his work explores how humans and other animals produce, perceive, and understand complex signals.
+<<<<<<< HEAD
 
 **Research interests**
 
@@ -17,3 +18,5 @@ His work combines experimental research, computational modeling, and comparative
 **Professional Activities**
 
 Through his research and teaching, Andrea bridges disciplines including evolutionary biology, psychology, and cognitive science, fostering collaboration between researchers interested in understanding the biological foundations of communication and cognition.
+=======
+>>>>>>> 148af4e58cebaad0be6f5df7da2237b71bda7051
