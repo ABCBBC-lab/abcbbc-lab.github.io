@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: These repositories contain code and data related to the research conducted at the ABCBBC Lab. They are open source and freely available for use and collaboration.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 {% if site.data.repositories.github_repos %}
