@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-news",
+  },{id: "nav-people",
+          title: "people",
+          description: "Current members of the ABCBBC lab.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "nav-news",
           title: "news",
           description: "",
           section: "Navigation",
@@ -29,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "Current members of the ABCBBC lab.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "news-seal-pup-born-with-a-full-set-of-teeth",
           title: 'Seal pup born with a full set of teeth',
