@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-seal-pup-born-with-a-full-set-of-teeth",
-          title: 'Seal pup born with a full set of teeth',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-our-website-is-now-online-stay-tuned-for-news-projects-and-publications-from-the-abcbbc-lab",
-          title: 'Our website is now online! Stay tuned for news, projects, and publications from...',
-          description: "",
-          section: "News",},{id: "news-the-human-lab-has-been-opened",
-          title: 'The human lab has been opened!',
-          description: "",
-          section: "News",},{
+        },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

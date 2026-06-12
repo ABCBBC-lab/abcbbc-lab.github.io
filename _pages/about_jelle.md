@@ -1,4 +1,4 @@
-Inspired by the power that (electronic) music has over society, subcultures, and people themselves, I set out to study the most regular of rhythms, like a metronome, or the simplest of drumbeats.
+**Jelle van der Werff** is inspired by the power that (electronic) music has over society, subcultures, and people themselves, and set out to study the most regular of rhythms, like a metronome, or the simplest of drumbeats.
 
 Throughout my efforts to study how humans perceive such ‘isochrony’, a different question arose, namely: What is the opposite of isochrony? If isochrony constitutes the most regular and predictive of beats, what then is the least predictive of beats? And how does the brain process such irregularity?
 
