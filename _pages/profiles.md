@@ -22,24 +22,30 @@ profiles:
     more_info: >
       <p>yannick.jadoul (at) uniroma1.it</p>
   - align: right
+    image: profile_teresa.jpg
+    content: about_teresa.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>teresa.raimondi (at) uniroma1.it</p>
+  - align: left
     image: profile_kelsey.jpg
     content: about_kelsey.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>kelsey.schultz (at) uniroma1.it</p>
-  - align: left
+  - align: right
     image: profile_francesca.jpg
     content: about_francesca.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>
-  - align: right
+  - align: left
     image: profile_vesta.jpg
     content: about_vesta.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>
-  - align: left
+  - align: right
     image: profile_jelle.jpg
     content: about_jelle.md
     image_circular: false # crops the image to make it circular
