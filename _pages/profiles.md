@@ -44,7 +44,7 @@ profiles:
     content: about_vesta.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>vesta
+      <p>vesta.eleuteri (at) gmail.com</p>
   - align: right
     image: profile_jelle.jpg
     content: about_jelle.md
