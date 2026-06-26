@@ -20,7 +20,7 @@ profiles:
     content: about_arianna.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>arianna.m99 (at) gmail.com</p>
+      <p>monteleone.aria (at) gmail.com</p>
   - align: right
     image: profile_francesca.jpg
     content: about_francesca.md
