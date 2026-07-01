@@ -273,7 +273,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Ravignani, van der Werff, Werff, Van der Werff, Raimondi, Jadoul, D'Orazio, Coissac, Giomo, Schulz]
+  last_name: [Ravignani, van der Werff, Werff, Van der Werff, Raimondi, Jadoul, D'Orazio, Coissac, Giomo, Schultz]
   first_name: [Jelle, JP, J.P., Andrea, Teresa, Yannick, Francesca, Chloé, Chloe, Dunia, Kelsey]
 
   style: apa
