@@ -1,0 +1,5 @@
+**Dunia Giomo** is a neuroscientist and psychologist who specializes in timing and rhythm. Dunia joined the ABCBBC lab in 2025. Before joining the lab, she earned her PhD in cognitive neuroscience in 2022 at the International School for Advanced Studies in Trieste, Italy, and did a post-doc at the Institute of Psychology (Polish Academy of Sciences) in Warsaw, Poland.
+
+Currently, my work focuses on investigating timing and rhythm capacities in pathology and neurodivergence, with a particular focus on Parkinson's Disease and Williams Syndrome. I'm involved in a number of projects in the lab, including a review on isochrony (the most regular kind of beat; i.e. a metronome), an investigation of rhythm processing in atypical populations, as well as investigating the relationship between breathing and rhythm perception.
+
+In my free time, I have many hobbies, and luckily many of those I can do in Rome, such as going to open-air cinemas (_cinema all'aperto_) and going to concerts with my colleagues/friends.
