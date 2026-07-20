@@ -2,4 +2,4 @@
 
 Currently, my work focuses on investigating timing and rhythm capacities in pathology and neurodivergence, with a particular focus on Parkinson's Disease and Williams Syndrome. I'm involved in a number of projects in the lab, including a review on isochrony (the most regular kind of beat; i.e. a metronome), an investigation of rhythm processing in atypical populations, as well as investigating the relationship between breathing and rhythm perception.
 
-In my free time, I have many hobbies, and luckily many of those I can do in Rome, such as going to open-air cinemas (*cinema all'aperto*) and going to concerts with my colleagues/friends.
+In my free time, I have many hobbies, and luckily many of those I can do in Rome, such as going to open-air cinemas (_cinema all'aperto_) and going to concerts with my colleagues/friends.
